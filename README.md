@@ -10,3 +10,5 @@ This is a default vanilla webpack template. It includes the following:
 -   webpack-dev-server
 
 ## Instructions
+
+Click the green 'Use this template' button in the upper right corner of your screen!
